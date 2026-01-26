@@ -60,52 +60,46 @@ I'm a software developer from Montreal with 4+ years of experience building data
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  
-![Rygaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rygaa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@aissabenfodda.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aissa-benfodda)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://aissabenfodda
-
-</div>
-
-## 🏆 GitHub Trophies
+## 📫 Let's Connect
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rygaa&theme=darkhub&no-frame=true&row=1&column=7)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="mailto:dev@aissabenfodda.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <br/>
+        <strong>dev@aissabenfodda.com</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/aissa-benfodda">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <br/>
+        <strong>Aissa Benfodda</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://aissabenfodda.com">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+        <br/>
+        <strong>aissabenfodda.com</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+📍 **Montreal, QC, Canada** | 📞 **+1 (438) 925-9863**
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/rygaa/count.svg)
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/rygaa">Rygaa</a></i>
+  <sub>💻 Open to interesting opportunities and collaborations</sub>
 </div>
