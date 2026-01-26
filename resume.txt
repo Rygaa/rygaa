@@ -1,0 +1,74 @@
+Aissa Benfodda
+Software Developer
+dev@aissabenfodda.com
++1 (438) 925-9863
+Montreal, QC, Canada
+ Web Portfolio | Linkedin | Github
+
+
+
+Professional Summary
+Software Developer with 4+ years’ experience in TypeScript, Node.js, and C++. Expert in building data pipelines, WebRTC systems, and Azure infrastructure while optimizing legacy full-stack architectures.
+Work Experience
+Software Developer – Oasis Path
+Sep 2025 – Present
+
+Data Aggregation System: Architected and developed a custom web-based platform for the automated collection and centralization of corporate data from multiple public sources.
+Automated Web Scraping: Engineered robust scraping engines to extract and normalize company information, ensuring high data accuracy and efficient processing pipelines.
+Workflow Optimization: Reduced manual research time by 80% by automating the data collection pipeline, significantly increasing the volume and speed of company outreach.
+
+Software Developer – Visions of Independence
+Dec 2022 – Aug 2025 (Full-time)
+
+Real-Time Communications: Engineered a custom screen-sharing system using WebRTC, specifically optimized for low-bandwidth client support sessions.
+Cloud Infrastructure: Managed the deployment, scaling, and hardening of internal services on Azure, utilizing NGINX and custom firewall configurations.
+Architecture & Design: Led the architectural transition of legacy support tools into a modern, centralized system, improving internal team response times.
+
+SaaS Developer – MyFloraboard
+May 2022 – Dec 2022 (Full-time), Dec 2022 – Jul 2023 (Part-time)
+
+
+End-to-End SaaS Launch: Led the full-cycle development and deployment of a botanical project management platform, transitioning from initial build to long-term feature evolution and maintenance.
+AI-Driven Data Pipeline: Engineered a data processing pipeline to clean and normalize large plant datasets, utilizing the OpenAI API for automated metadata enrichment.
+Full-Stack Ownership: Architected the entire technical stack, including frontend, backend, and infrastructure (Azure/NGINX), while implementing custom PDF export engines.
+
+Full Stack Web Developer – Pillar Science
+Jan 2022 – Apr 2022 (Full-time)
+
+Legacy Modernization: Refactored complex legacy modules to improve code maintainability and system performance, reducing technical debt within a scientific data management platform.
+Feature Engineering: Developed and integrated new core features, working across the full stack to meet the rigorous data handling requirements of scientific researchers.
+System Stability: Architected and implemented automated test suites to ensure high reliability and prevent regressions during rapid feature delivery.
+Agile Collaboration: Contributed to a high-velocity team environment through active participation in sprint planning, architectural reviews, and peer code quality assessments.
+
+Freelance Software Developer
+Mar 2020 – Jun 2020
+
+Medical Tutoring Platform: Developed a custom video-sharing system with hierarchical organization and interactive UI. Engineered a relational commenting system to facilitate structured academic discussions.
+Study Tutoring Application: Built a full-stack platform from scratch, including database architecture and Figma design. Integrated real-time collaboration tools for student-tutor engagement.
+
+Projects & Independent Study
+
+Independent Game Developer – Dragon Ball Z Online RPG (2D)
+Jan 2016 – Nov 2017
+Crafted a real-time 2D Dragon Ball RPG by customizing a multiplayer engine with socket-based state synchronization, complex combat physics, and transformation logic for a dedicated alpha-tester community.
+
+Technical Mentor & Tutor
+Sep 2019 – Aug 2024 (Occasional)
+Simplified complex CS concepts for diverse audiences while guiding peers through debugging, code reviews, and architectural troubleshooting to foster clean code practices and optimized logic across projects.
+
+Education
+
+Cégep Bois-de-Boulogne – Software Engineering Technology (DEC)
+Sept 2019 – Aug 2021
+Completed three terms of programming and database coursework before pivoting to remote, hands-on engineering projects in 2021, prioritizing industrial experience and professional full-stack software development.
+
+Skills
+Programming Languages: TypeScript, JavaScript (ES6+), C++, Java, PHP.
+Runtimes & Frameworks: Node.js, Express, NestJS, Next.js, React, Vue.js, Svelte, tRPC.
+Cloud & Infrastructure: Azure, AWS, Cloudflare (DNS/Workers), Caddy, NGINX, Docker, PM2.
+Databases & ORM: PostgreSQL, MongoDB, Drizzle ORM, Prisma/TypeORM, Data Normalization.
+Enterprise Integrations: Microsoft Power Automate, SharePoint API, Microsoft Graph API.
+Real-Time & Protocols: WebRTC, WebSockets, HTTP/HTTPS, REST.
+Development Environment: WSL (Windows Subsystem for Linux), Linux/Unix, Git, GitHub, Postman, CI/CD.
+Frontend & Graphics: Tailwind CSS, shadcn/ui, Three.js, Framer Motion, Figma.
+Languages: English (Fluent), French (Fluent).
