@@ -18,7 +18,7 @@ I'm a software developer from Montreal with 4+ years of experience building data
 - 🔭 Building data aggregation systems and automated workflows
 - 🌱 Deep diving into WebRTC, cloud architecture, and system optimization
 - 💡 Interested in real-time communications and data processing pipelines
-- 📫 Reach out: dev@aissabenfodda.com
+- 📫 Reach out: dev@aissabenfodda.ca
 
 ## 🛠️ Tech Stack
 
